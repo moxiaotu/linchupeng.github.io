@@ -161,7 +161,7 @@ a {
   background: -webkit-linear-gradient(0deg, #3CD5FF, #007AFF);
   background: -o-linear-gradient(0deg, #3CD5FF, #007AFF);
   background: -moz-linear-gradient(0deg, #3CD5FF, #007AFF);
-  background: linear-gradient(100deg, #FFF, #FFF); }
+  background: linear-gradient(100deg, #fff, #fff); }
 
 .banner-theme-pink {
   background: -webkit-linear-gradient(0deg, #FFCE69, #FA709A);
@@ -1000,8 +1000,8 @@ a {
       line-height: 48px; }
     .home-banner h3 {
       margin-top: 2px;
-      font-size: 18px;
-      letter-spacing: 6px; }
+      font-size: 15px;
+      letter-spacing: 3px; }
     .home-banner .header-img {
       width: 695px;
       left: -100px; }
@@ -1074,7 +1074,7 @@ a {
     line-height: 38px; }
   .home-banner h3 {
     margin-top: 4px;
-    font-size: 16px; }
+    font-size: 13px; }
   .home-banner .header-img {
     width: 695px;
     left: -100px; } }
