@@ -4,7 +4,7 @@ title: '为什么写起了博客'
 subtitle: '博客这种东西跟经典一样，不会随着时间而褪色，反而更显珍贵.'
 date: 2017-09-04
 categories: 生活
-cover: 'http://ouf7e3dd8.bkt.clouddn.com/helloblog.jpg'
+cover: 'http://ouf7e3dd8.bkt.clouddn.com/moon.jpg'
 tags: 生活
 ---
 早之前时常看到别人的博文，总会突发奇想是否自己也搭建个博客，只是自己的拖延症已经无可救药了，现在想搭建的时候 ，博客也已经差不多走到了末路。现在有了知乎，掘金，简书，微博。谁还会去写博客。可是人都希望有自己的空间，这也是我为什么写博客的意义。
