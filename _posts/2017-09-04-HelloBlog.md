@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '为什么写起了博客'
-subtitle: '博客这种东西跟经典一样，不会随着时间而褪色，反而更显珍贵.'
+subtitle: '博客这种东西跟经典一样，不会随着时间而褪色，反而更显珍贵。'
 date: 2017-09-04
 categories: 生活
 cover: 'http://ouf7e3dd8.bkt.clouddn.com/moon.jpg'
